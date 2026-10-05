@@ -242,7 +242,7 @@ $$
 
 #### Equilibrio en el origen
 
-Al evaluar en \(E_0=(0,0)\),
+Al evaluar en $$\(E_0=(0,0)\)$$,
 
 $$
 J(E_0)=
@@ -292,7 +292,7 @@ $$
 \lambda_{1,2}=\pm i\sqrt{\alpha\gamma}.
 $$
 
-La linealización produce valores propios puramente imaginarios. En la terminología estándar del sistema clásico de Lotka–Volterra, el equilibrio de coexistencia corresponde a un **centro**, asociado con oscilaciones sostenidas alrededor de \(E_1\); no es un equilibrio asintóticamente estable.
+La linealización produce valores propios puramente imaginarios. En la terminología estándar del sistema clásico de Lotka–Volterra, el equilibrio de coexistencia corresponde a un **centro**, asociado con oscilaciones sostenidas alrededor de $$\(E_1\)$$; no es un equilibrio asintóticamente estable.
 
 ### 4. Normalización del sistema
 
