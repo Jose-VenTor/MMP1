@@ -11,7 +11,9 @@ El caso de estudio utiliza el sistema clásico de **Lotka–Volterra** para repr
 **Institución:** Tecnológico Nacional de México / Instituto Tecnológico de Tijuana  
 **Asignatura:** Modelado Matemático  
 **Programa:** Maestría en Ciencias de la Ingeniería  
-**Alumno:** Jose Venegas Torres M26210088 m26210088@tectijuana.edu.mx
+**Alumno:** Jose Venegas Torres  
+**Numero de control:** M26210088  
+**Correo:** m26210088@tectijuana.edu.mx
 
 ---
 
@@ -389,7 +391,7 @@ $$
 \mathrm{MoE}=t_{1-\alpha_s/2,\nu}\,SE,
 $$
 
-donde \(\alpha_s=0.05\) es el nivel de significancia y \(\nu\) representa los grados de libertad del ajuste.
+donde $$\(\alpha_s=0.05\)$$ es el nivel de significancia y $$\(\nu\)$$ representa los grados de libertad del ajuste.
 
 ### Parámetros guardados
 
@@ -747,7 +749,7 @@ El archivo `Apellido_NoControl.mlx` constituye el cuaderno computacional princip
 
 #### 6.1 Condiciones iniciales: origen
 
-- Simulación exactamente en \(E_0=(0,0)\).
+- Simulación exactamente en $$\(E_0=(0,0)\)$$.
 - Simulación con condiciones iniciales alejadas del origen.
 - Representación del equilibrio en el plano de fase.
 
@@ -839,7 +841,7 @@ Para reproducir el análisis completo:
 
 1. Colocar `data.csv`, `Apellido_NoControl.mlx` y `sistema.slx` en el mismo directorio de trabajo de MATLAB.
 2. Ejecutar primero la sección **Datos experimentales y ajuste → Datos crudos**.
-3. Verificar que se genere `parameters.mat` con \(\alpha\), \(\beta\), \(\delta\) y \(\gamma\).
+3. Verificar que se genere `parameters.mat` con $$\(\alpha\)$$, $$\(\beta\)$$, $$\(\delta\)$$ y $$\(\gamma\)$$.
 4. Ejecutar las configuraciones de suavizado y normalización.
 5. Ejecutar **Soluciones y plano de fase**.
 6. Ejecutar las comparaciones de solvers en **Modelos de EDOs con Simulink**.
