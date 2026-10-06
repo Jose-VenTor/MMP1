@@ -679,7 +679,7 @@ El archivo `Apellido_NoControl.mlx` constituye el cuaderno computacional princip
 
 ##### 2.3.1 Desnormalización de los parámetros
 
-- Recuperación de $$\(\beta\) y \(\delta\)$$ en la escala original.
+- Recuperación de $$\(\beta\)$$ y $$\(\delta\)$$ en la escala original.
 - Simulación del modelo desnormalizado.
 - Comparación con los datos originales.
 
@@ -693,7 +693,7 @@ El archivo `Apellido_NoControl.mlx` constituye el cuaderno computacional princip
 
 - Carga de los parámetros estimados.
 - Simulación del sistema mediante `LotkaVolterra`.
-- Soluciones $$\(x(t)\) y $$\(y(t)\)$$.
+- Soluciones $$\(x(t)\)$$ y $$\(y(t)\)$$.
 - Trayectoria $$\(y(x)\)$$ en el plano de fase.
 
 ### 4. Modelos de EDOs con Simulink
